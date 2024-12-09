@@ -45,7 +45,7 @@ header .head{
     display: flex;
     justify-content: space-evenly; /* Distribute images evenly */
     align-items: center;
-    width: 80%; /* Adjust the width to fit the screen */
+    width: 70%; /* Adjust the width to fit the screen */
     flex-wrap: wrap; /* Allow wrapping for responsive design */
 }
 
